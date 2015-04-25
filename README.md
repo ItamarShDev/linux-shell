@@ -49,7 +49,7 @@
 | bzless | kbd_mode | ntfsdump_logfile | tempfile |
 | bzmore | kill | ntfsfix | touch |
 | cat	 |	      kmod	|  ntfsinfo	|	   true |
-| chacl		     |  less	  ntfsls |	   udevadm |
+| chacl		     |  less	 | ntfsls |	   udevadm |
 | chgrp		     |  lessecho	 |  ntfsmftalloc |	   ulockmgr_server |
 | chmod		     |  lessfile |	  ntfsmove |	   umount |
 | chown		      | lesskey	 |  ntfstruncate |	   uname |
@@ -59,14 +59,14 @@
 | dash		      | login |	  pidof	 |	   vmmouse_detect |
 | date		      | loginctl |	  ping	 |	   which |
 | dbus-cleanup-sockets|   lowntfs-3g  | ping6	 |	   whiptail |
-| dbus-daemon	      | ls |	  plymouth		   ypdomainname |
+| dbus-daemon	      | ls |	  plymouth	|	   ypdomainname |
 | dbus-uuidgen	      | lsblk |	  plymouth-upstart-bridge | zcat |
 | dd		     | lsmod |	  ps			  | zcmp |
 | df		    |  mkdir |	  pwd			   |zdiff |
 | dir		   |   mknod |	  rbash			   |zegrep |
-| dmesg		   |   mktemp	  readlink		   |zfgrep |
+| dmesg		   |   mktemp	|  readlink		   |zfgrep |
 | dnsdomainname	  |    more |	  red			  | zforce |
-| domainname |      mount |	  rm		 |zgrep |
+| domainname |      mount |	  rm |zgrep |
 | dumpkey |	      mountpoint  | rmdir			   |zless |
 | echo |	      mt |	  rnano			  |zmore |
 | ed |	      mt-gnu |	  running-in-container	   |znew |
